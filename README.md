@@ -1,4 +1,3 @@
-# trading-journal
-a way to find weakness and strength is to record everything you do for reviewing
+# Trading Journal
 
-Go to Wiki to see detail
+A way to find weakness and strength is to record everything you do for reviewing
